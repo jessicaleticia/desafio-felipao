@@ -1,1 +1,2 @@
-fghjghk
+-- Variáveis --
+--**como declarar variaveis**--
